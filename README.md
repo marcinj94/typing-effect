@@ -1,13 +1,12 @@
 # Simple website:
-    - Text typing effect
-    - Background animation
+- Text typing effect
+- Background animation
 
 ## Used technologies
-
-    - HTML
-    - CSS
-    - JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ### Demo
 
-Visit 
+Visit https://marcinj94.github.io/typing-effect/
